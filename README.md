@@ -1,2 +1,2 @@
-# NewWebsite
-Repository for website of Prof. Rajkumar Patil Sir
+# New Website
+Repository for website of Prof. Rajkumar Patil Sir.
